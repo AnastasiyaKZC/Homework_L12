@@ -5,4 +5,3 @@
 ссылка на репозиторий https://github.com/qa-guru/qa_guru_python_1_9_jenkins/
 
 
-
