@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selene import Browser, Config
 
-from Homework_12.demoqa.utils import attach
+from Homework_12.utils import attach
 
 
 @pytest.fixture(scope='function')
